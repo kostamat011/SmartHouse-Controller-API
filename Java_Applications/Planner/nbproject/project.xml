@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/car-project/1">
+            <name>Planner</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+            <included-library dirs="200">libs.eclipselink.classpath</included-library>
+            <included-library dirs="200">file.reference.javax.persistence-2.1.0.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.antlr-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.asm-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.core-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.jpql-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.modelgen.processor-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.mysql-connector-java-8.0.22.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-1.3.50.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-common-1.3.50.jar</included-library>
+            <included-library dirs="200">file.reference.okhttp-4.2.1.jar</included-library>
+            <included-library dirs="200">file.reference.okio-2.2.2.jar</included-library>
+            <included-library dirs="200">file.reference.jackson-databind-2.12.1.jar</included-library>
+            <included-library dirs="200">file.reference.jackson-annotations-2.12.1.jar</included-library>
+            <included-library dirs="200">file.reference.json-20201115.jar</included-library>
+        </data>
+    </configuration>
+</project>
